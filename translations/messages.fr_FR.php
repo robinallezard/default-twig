@@ -2386,4 +2386,6 @@ return [
     'Title, reference, GTIN or manufacturer part number' => 'Titre, référence, GTIN ou référence fabricant',
     'Search by reference or title…' => 'Rechercher par référence ou titre…',
     'No matching product.' => 'Aucun produit correspondant.',
+    'Search by title…' => 'Rechercher par titre…',
+    'No matching content.' => 'Aucun contenu correspondant.',
 ];
