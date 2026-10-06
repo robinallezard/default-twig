@@ -2388,4 +2388,7 @@ return [
     'No matching product.' => 'Aucun produit correspondant.',
     'Search by title…' => 'Rechercher par titre…',
     'No matching content.' => 'Aucun contenu correspondant.',
+    'Move up' => 'Monter',
+    'Move down' => 'Descendre',
+    'Change the position' => 'Modifier la position',
 ];
